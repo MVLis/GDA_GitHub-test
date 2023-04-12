@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDA_Github-test", "GDA_Github-test\GDA_Github-test.csproj", "{BC87A86D-D6BD-4F70-B147-FBB28877069F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC87A86D-D6BD-4F70-B147-FBB28877069F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC87A86D-D6BD-4F70-B147-FBB28877069F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC87A86D-D6BD-4F70-B147-FBB28877069F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC87A86D-D6BD-4F70-B147-FBB28877069F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
